@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ValentinConstant
-- 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning web developpment, machine learning
-- 💞️ I’m looking to collaborate on projects as freelancer.
-- 📫 How to reach me : linkedIn
+- 📫 How to reach me : LinkedIn or bye e-mail.
 
 <!---
 ValentinConstant/ValentinConstant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
